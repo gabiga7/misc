@@ -26,7 +26,7 @@ The IBM z Series supports a variety of networking protocols, including TCP/IP, S
 
 The IBM z Series has robust security features, and you should be familiar with these features and know how to implement and maintain them.
 
-# CPU of the IBM z Series
+## CPU of the IBM z Series
 
 The central processing unit (CPU) is the main component of the IBM z Series mainframe computer, and is responsible for executing instructions that are contained in programs. The IBM z Series uses a type of CPU called a microprocessor, which is a small, highly integrated chip that contains millions of transistors. The microprocessor in the IBM z Series is a custom design that is optimized for mainframe applications and has a very high level of performance.
 
